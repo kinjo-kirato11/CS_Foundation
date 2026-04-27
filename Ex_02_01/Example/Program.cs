@@ -4,6 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        int quantity = 2;
+        int price = 1;
+        int total = quantity*price;
+        System.Console.WriteLine(total);
     }
 }
+
