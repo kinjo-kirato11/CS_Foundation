@@ -24,7 +24,6 @@ static class Program
         finally
         {
             Console.WriteLine("必ず実行");
-
         }
         Console.WriteLine("プログラム正常終了");
 
